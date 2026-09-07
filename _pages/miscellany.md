@@ -10,7 +10,7 @@ author_profile: true
 Novels
 ======
 
-Novels I've read, with author and nationality.
+Novels I've read (incomplete), with author and nationality.
 
 | Title | Author | Nationality |
 |---|---|---|
