@@ -30,10 +30,10 @@ Research experience
 
 Teaching experience
 ======
-* Teaching Assistant, undergraduate statistics courses
-  * University of Michigan, Ann Arbor
-  * Designed lesson materials on correlation and causation, including interactive classroom activities, LaTeX Beamer presentations, and lesson plans
-  * See the [Teaching](/teaching/) page for details
+* Teaching Assistant, University of Michigan, Ann Arbor
+  * DATASCI 315 — Statistics and Artificial Intelligence, Fall 2026
+  * STATS 250 — Introduction to Statistics and Data Analysis, Spring 2026
+  * MATH 425 — Introduction to Probability, Fall 2025
 
 Skills
 ======
