@@ -14,9 +14,9 @@ Novels I've read, with author and nationality.
 
 | Title | Author | Nationality |
 |---|---|---|
-| 白色巨塔 (*The White Tower*) | Toyoko Yamazaki (山崎豊子) | Japanese |
-| 锦绣 (*Kinshu: Autumn Brocade*) | Teru Miyamoto (宮本輝) | Japanese |
-| 霍乱时期的爱情 (*Love in the Time of Cholera*) | Gabriel García Márquez | Colombian |
+| 白色巨塔 | 山崎丰子 | 日本 |
+| 锦绣 | 宫本辉 | 日本 |
+| 霍乱时期的爱情 | 加西亚·马尔克斯 | 哥伦比亚 |
 
 Classical Music
 ======
