@@ -17,6 +17,7 @@ Novels I've read (incomplete), with author and nationality.
 | 白色巨塔 | 山崎丰子 | 日本 |
 | 锦绣 | 宫本辉 | 日本 |
 | 霍乱时期的爱情 | 加西亚·马尔克斯 | 哥伦比亚 |
+| 呼啸山庄 | 艾米莉·勃朗特 | 英国 |
 
 Classical Music
 ======
