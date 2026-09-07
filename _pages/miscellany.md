@@ -21,8 +21,6 @@ Novels I've read, with author and nationality.
 Classical Music
 ======
 
-*Last updated: April 20, 2026*
-
 ### Classical (古典)
 
 * 贝多芬 月光奏鸣曲，演奏 古尔德，[链接](https://www.bilibili.com/video/BV1mq4y1k7FW/?spm_id_from=333.1387.favlist.content.click&vd_source=a561ef469b393b8e0fe54f7f631cc160)
