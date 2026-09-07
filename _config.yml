@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Siyuan"
   pronouns         : # example: "she/her"
-  bio              : "First-year PhD student in Statistics at the University of Michigan. Working on statistical network analysis, synthetic data generation, and model selection."
+  bio              : #
   location         : "Ann Arbor, Michigan"
   employer         : "University of Michigan"
   uri              : # URL
