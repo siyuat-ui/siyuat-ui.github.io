@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+Outside of research, I spend a lot of my time reading novels and listening to classical music.
+
 Novels
 ======
 
@@ -16,7 +18,7 @@ Novels I've read (incomplete), with author and nationality.
 |---|---|---|
 | 生死疲劳 | 莫言 | 中国 |
 | 蛙 | 莫言 | 中国 |
-| 鳄鱼（话剧） | 莫言 | 中国 |
+| 鳄鱼（话剧剧本） | 莫言 | 中国 |
 | 活着 | 余华 | 中国 |
 | 许三观卖血记 | 余华 | 中国 |
 | 在细雨中呼喊 | 余华 | 中国 |
