@@ -40,6 +40,8 @@ Classical Music
 
 ### Classical (古典)
 
+* 莫扎特 钢琴奏鸣曲第16号C大调 K. 545，演奏 朗朗，[链接](https://www.bilibili.com/video/BV1Ex411Z7s9/?spm_id_from=333.1387.favlist.content.click&vd_source=a561ef469b393b8e0fe54f7f631cc160)
+* 莫扎特 土耳其进行曲，演奏 李云迪，[链接](https://www.bilibili.com/video/BV1FC411W7gx/?spm_id_from=333.1387.favlist.content.click&vd_source=a561ef469b393b8e0fe54f7f631cc160)
 * 贝多芬 月光奏鸣曲，演奏 古尔德，[链接](https://www.bilibili.com/video/BV1mq4y1k7FW/?spm_id_from=333.1387.favlist.content.click&vd_source=a561ef469b393b8e0fe54f7f631cc160)
 * 贝多芬 月光奏鸣曲，演奏 瓦伦提娜，[链接](https://www.bilibili.com/video/BV1fk4y1z7gW/?spm_id_from=333.1387.favlist.content.click&vd_source=a561ef469b393b8e0fe54f7f631cc160)
 * 贝多芬 第五钢琴协奏曲 皇帝，钢琴 朗朗，[链接](https://www.bilibili.com/video/BV1Eq4y1i7hx/?spm_id_from=333.337.search-card.all.click&vd_source=a561ef469b393b8e0fe54f7f631cc160)
@@ -49,8 +51,6 @@ Classical Music
 * 贝多芬 第九交响曲片段 欢乐颂，2015年，指挥 安德里斯·尼尔森斯（Andris Nelsons），[链接](https://www.youtube.com/watch?v=yf2rbcrZzDQ)
 * 施特劳斯 拉德斯基进行曲，指挥 卡拉扬，[链接](https://www.bilibili.com/video/BV1M54y1s7NZ/?spm_id_from=333.337.search-card.all.click&vd_source=a561ef469b393b8e0fe54f7f631cc160)
 * 施特劳斯 拉德斯基进行曲，2002年 维也纳新年音乐会，指挥 小泽征尔，[链接](https://www.bilibili.com/video/BV1jD4y1d71j/?spm_id_from=333.337.search-card.all.click&vd_source=a561ef469b393b8e0fe54f7f631cc160)
-* 莫扎特 钢琴奏鸣曲第16号C大调 K. 545，演奏 朗朗，[链接](https://www.bilibili.com/video/BV1Ex411Z7s9/?spm_id_from=333.1387.favlist.content.click&vd_source=a561ef469b393b8e0fe54f7f631cc160)
-* 莫扎特 土耳其进行曲，演奏 李云迪，[链接](https://www.bilibili.com/video/BV1FC411W7gx/?spm_id_from=333.1387.favlist.content.click&vd_source=a561ef469b393b8e0fe54f7f631cc160)
 
 ### Romantic (浪漫)
 
@@ -84,6 +84,7 @@ Classical Music
 * 李斯特 钟，演奏 朗朗，[链接](https://www.bilibili.com/video/BV1GW411e781/?spm_id_from=333.337.search-card.all.click&vd_source=a561ef469b393b8e0fe54f7f631cc160)
 * 李斯特 叹息，演奏 朗朗，[链接](https://www.bilibili.com/video/BV1B4411a7wd/?spm_id_from=333.1387.favlist.content.click&vd_source=a561ef469b393b8e0fe54f7f631cc160)
 * 李斯特 叹息，演奏 瓦伦提娜，[链接](https://www.bilibili.com/video/BV1Mt411C74s/?spm_id_from=333.1387.favlist.content.click&vd_source=a561ef469b393b8e0fe54f7f631cc160)
+* 李斯特（改编自舒曼）献词 Widmung after Schumann, S.566，演奏 李云迪，[链接](https://www.youtube.com/watch?v=jDWeTO3tBNI)
 * 巴达捷芙斯卡 少女的祈祷，演奏 朗朗，[链接](https://www.bilibili.com/video/BV14J411W7v1/?spm_id_from=333.337.search-card.all.click&vd_source=a561ef469b393b8e0fe54f7f631cc160)
 * 德沃夏克 第九交响曲《自新大陆》第四乐章，指挥 卡拉扬，[链接](https://www.bilibili.com/video/BV1e34y1i7Hz?spm_id_from=333.788.player.player_end_recommend_autoplay&vd_source=a561ef469b393b8e0fe54f7f631cc160&trackid=web_related_0.router-related-2479604-grjpt.1770481253121.40)
 * 拉赫玛尼诺夫 第二钢琴协奏曲，钢琴 朗朗，[链接](https://www.bilibili.com/video/BV1sx41117YL/?spm_id_from=333.1387.favlist.content.click&vd_source=a561ef469b393b8e0fe54f7f631cc160)
