@@ -61,7 +61,7 @@ Classical Music
 
 * 舒曼《童年情景》 No. 1-13，演奏 霍洛维茨，<a href="https://www.bilibili.com/video/BV1xo4y1H7Sd/?spm_id_from=333.1387.favlist.content.click&vd_source=a561ef469b393b8e0fe54f7f631cc160" target="_blank" rel="noopener noreferrer">链接</a>
 * 舒曼《童年情景》 No. 1 异国与异国人民，演奏 阿格里奇，<a href="https://www.bilibili.com/video/BV14741167fy/?spm_id_from=333.1387.favlist.content.click&vd_source=a561ef469b393b8e0fe54f7f631cc160" target="_blank" rel="noopener noreferrer">链接</a>
-* 舒曼《克莱斯勒偶记》Kreisleriana, Op. 16: IV. Sehr langsam，演奏 加吉耶夫（Alexander Gadjiev），<a href="https://www.youtube.com/watch?v=BDkcGnrXEMw&list=OLAK5uy_lBnb6PXcaHGT2iwys_K7NLfbeg__psGW4&index=7" target="_blank" rel="noopener noreferrer">链接</a>
+* 舒曼《克莱斯勒偶记》Kreisleriana, Op. 16: IV. Sehr langsam，演奏 Alexander Gadjiev，<a href="https://www.youtube.com/watch?v=BDkcGnrXEMw&list=OLAK5uy_lBnb6PXcaHGT2iwys_K7NLfbeg__psGW4&index=7" target="_blank" rel="noopener noreferrer">链接</a>
 * 肖邦 夜曲 Op.48 No.1，演奏 李云迪（录音棚版），<a href="https://www.bilibili.com/video/BV1Wb411V7Rw/?spm_id_from=333.1387.favlist.content.click&vd_source=a561ef469b393b8e0fe54f7f631cc160" target="_blank" rel="noopener noreferrer">链接</a>
 * 肖邦 夜曲 Op.48 No.1，演奏 赵成珍（2015年肖赛），<a href="https://www.bilibili.com/video/BV1sW41177z1/?spm_id_from=333.1387.favlist.content.click&vd_source=a561ef469b393b8e0fe54f7f631cc160" target="_blank" rel="noopener noreferrer">链接</a>
 * 肖邦 夜曲 Op.48 No.1，演奏 阿格里奇，<a href="https://www.bilibili.com/video/BV1zh41187Qc/?vd_source=a561ef469b393b8e0fe54f7f631cc160" target="_blank" rel="noopener noreferrer">链接</a>
