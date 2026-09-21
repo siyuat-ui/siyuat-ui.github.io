@@ -104,8 +104,8 @@ Classical Music
 * 李斯特 钟，演奏 李云迪，<a href="https://www.bilibili.com/video/BV1Xs411T7tn/?vd_source=a561ef469b393b8e0fe54f7f631cc160" target="_blank" rel="noopener noreferrer">链接</a>
 * 巴达捷芙斯卡 少女的祈祷，演奏 朗朗，<a href="https://www.bilibili.com/video/BV14J411W7v1/?spm_id_from=333.337.search-card.all.click&vd_source=a561ef469b393b8e0fe54f7f631cc160" target="_blank" rel="noopener noreferrer">链接</a>
 * 德沃夏克 第九交响曲《自新大陆》第四乐章，指挥 卡拉扬，<a href="https://www.bilibili.com/video/BV1e34y1i7Hz?spm_id_from=333.788.player.player_end_recommend_autoplay&vd_source=a561ef469b393b8e0fe54f7f631cc160&trackid=web_related_0.router-related-2479604-grjpt.1770481253121.40" target="_blank" rel="noopener noreferrer">链接</a>
-* 拉赫玛尼诺夫 第二钢琴协奏曲，钢琴 朗朗，<a href="https://www.bilibili.com/video/BV1sx41117YL/?spm_id_from=333.1387.favlist.content.click&vd_source=a561ef469b393b8e0fe54f7f631cc160" target="_blank" rel="noopener noreferrer">链接</a>
-* 拉赫玛尼诺夫 第三钢琴协奏曲，钢琴 朗朗，<a href="https://www.bilibili.com/video/BV1qs411C7KF/?spm_id_from=333.1387.favlist.content.click&vd_source=a561ef469b393b8e0fe54f7f631cc160" target="_blank" rel="noopener noreferrer">链接</a>
+* 拉赫玛尼诺夫 c小调第二钢琴协奏曲 Op.18，钢琴 朗朗，<a href="https://www.bilibili.com/video/BV1sx41117YL/?spm_id_from=333.1387.favlist.content.click&vd_source=a561ef469b393b8e0fe54f7f631cc160" target="_blank" rel="noopener noreferrer">链接</a>
+* 拉赫玛尼诺夫 d小调第三钢琴协奏曲 Op.30，钢琴 朗朗，<a href="https://www.bilibili.com/video/BV1qs411C7KF/?spm_id_from=333.1387.favlist.content.click&vd_source=a561ef469b393b8e0fe54f7f631cc160" target="_blank" rel="noopener noreferrer">链接</a>
 
 ### Impressionism (印象主义)
 
