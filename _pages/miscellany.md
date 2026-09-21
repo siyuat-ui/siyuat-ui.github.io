@@ -98,6 +98,7 @@ Classical Music
 * 李斯特（改编自舒伯特）小夜曲 Ständchen, S.560，演奏 卡蒂雅，<a href="https://www.bilibili.com/video/BV1R7411k7di/?vd_source=a561ef469b393b8e0fe54f7f631cc160" target="_blank" rel="noopener noreferrer">链接</a>
 * 李斯特（改编自舒曼）献词 Widmung after Schumann, S.566，演奏 李云迪（2003年专辑版），<a href="https://www.youtube.com/watch?v=jDWeTO3tBNI" target="_blank" rel="noopener noreferrer">链接</a>
 * 李斯特（改编自舒曼）献词 Widmung after Schumann, S.566，演奏 阿格里奇，<a href="https://www.bilibili.com/video/BV1a4411B7F5/?vd_source=a561ef469b393b8e0fe54f7f631cc160" target="_blank" rel="noopener noreferrer">链接</a>
+* 李斯特（改编自舒曼）献词 Widmung after Schumann, S.566，演奏 顾圣婴，<a href="https://www.bilibili.com/video/BV1dW411i7j6/?vd_source=a561ef469b393b8e0fe54f7f631cc160" target="_blank" rel="noopener noreferrer">链接</a>
 * 巴达捷芙斯卡 少女的祈祷，演奏 朗朗，<a href="https://www.bilibili.com/video/BV14J411W7v1/?spm_id_from=333.337.search-card.all.click&vd_source=a561ef469b393b8e0fe54f7f631cc160" target="_blank" rel="noopener noreferrer">链接</a>
 * 德沃夏克 第九交响曲《自新大陆》第四乐章，指挥 卡拉扬，<a href="https://www.bilibili.com/video/BV1e34y1i7Hz?spm_id_from=333.788.player.player_end_recommend_autoplay&vd_source=a561ef469b393b8e0fe54f7f631cc160&trackid=web_related_0.router-related-2479604-grjpt.1770481253121.40" target="_blank" rel="noopener noreferrer">链接</a>
 * 拉赫玛尼诺夫 第二钢琴协奏曲，钢琴 朗朗，<a href="https://www.bilibili.com/video/BV1sx41117YL/?spm_id_from=333.1387.favlist.content.click&vd_source=a561ef469b393b8e0fe54f7f631cc160" target="_blank" rel="noopener noreferrer">链接</a>
