@@ -74,8 +74,9 @@ Classical Music
 * 肖邦 第二谐谑曲 Op.31，演奏 齐默尔曼，<a href="https://www.bilibili.com/video/BV1Jb411j7Mg/?spm_id_from=333.1387.favlist.content.click&vd_source=a561ef469b393b8e0fe54f7f631cc160" target="_blank" rel="noopener noreferrer">链接</a>
 * 肖邦 第二谐谑曲 Op.31，演奏 李云迪（2000年肖赛），<a href="https://www.bilibili.com/video/BV1764y1971W/?spm_id_from=333.1387.favlist.content.click&vd_source=a561ef469b393b8e0fe54f7f631cc160" target="_blank" rel="noopener noreferrer">链接</a>
 * 肖邦 幻想即兴曲，演奏 李云迪，<a href="https://www.bilibili.com/video/BV1fx411F7mE/?spm_id_from=333.1387.favlist.content.click&vd_source=a561ef469b393b8e0fe54f7f631cc160" target="_blank" rel="noopener noreferrer">链接</a>
-* 肖邦 英雄波兰舞曲，演奏 霍洛维茨，<a href="https://www.bilibili.com/video/BV1ys411X7Ue/?spm_id_from=333.1387.favlist.content.click&vd_source=a561ef469b393b8e0fe54f7f631cc160" target="_blank" rel="noopener noreferrer">链接</a>
-* 肖邦 英雄波兰舞曲，演奏 朗朗，<a href="https://www.bilibili.com/video/BV1ix411v7yL/?spm_id_from=333.1387.favlist.content.click&vd_source=a561ef469b393b8e0fe54f7f631cc160" target="_blank" rel="noopener noreferrer">链接</a>
+* 肖邦 降A大调英雄波兰舞曲 Op.53，演奏 霍洛维茨，<a href="https://www.bilibili.com/video/BV1ys411X7Ue/?spm_id_from=333.1387.favlist.content.click&vd_source=a561ef469b393b8e0fe54f7f631cc160" target="_blank" rel="noopener noreferrer">链接</a>
+* 肖邦 降A大调英雄波兰舞曲 Op.53，演奏 朗朗，<a href="https://www.bilibili.com/video/BV1ix411v7yL/?spm_id_from=333.1387.favlist.content.click&vd_source=a561ef469b393b8e0fe54f7f631cc160" target="_blank" rel="noopener noreferrer">链接</a>
+* 肖邦 降A大调幻想波兰舞曲 Op.61，演奏 Blechacz（2013年专辑版），<a href="https://www.bilibili.com/video/BV1yd94YZEpb/?vd_source=a561ef469b393b8e0fe54f7f631cc160" target="_blank" rel="noopener noreferrer">链接</a>
 * 肖邦 夜曲 Op. 9 No. 1，演奏 皮尔斯，<a href="https://www.bilibili.com/video/BV1x94y1A7Gf/?spm_id_from=333.1387.favlist.content.click&vd_source=a561ef469b393b8e0fe54f7f631cc160" target="_blank" rel="noopener noreferrer">链接</a>
 * 肖邦 第一钢琴协奏曲，钢琴 李云迪（2000年肖赛决赛），<a href="https://www.bilibili.com/video/BV1Vx411m7co/?spm_id_from=333.1387.favlist.content.click&vd_source=a561ef469b393b8e0fe54f7f631cc160" target="_blank" rel="noopener noreferrer">链接</a>
 * 肖邦 革命练习曲，演奏 基辛，<a href="https://www.bilibili.com/video/BV12s41147XS/?spm_id_from=333.1387.favlist.content.click&vd_source=a561ef469b393b8e0fe54f7f631cc160" target="_blank" rel="noopener noreferrer">链接</a>
