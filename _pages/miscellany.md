@@ -94,6 +94,7 @@ Classical Music
 * 李斯特（改编自舒曼）献词 Widmung after Schumann S. 566，演奏 李云迪（2003年专辑版），<a href="https://www.youtube.com/watch?v=jDWeTO3tBNI" target="_blank" rel="noopener noreferrer">链接</a>
 * 李斯特（改编自舒曼）献词 Widmung after Schumann S. 566，演奏 阿格里奇，<a href="https://www.bilibili.com/video/BV1a4411B7F5/?vd_source=a561ef469b393b8e0fe54f7f631cc160" target="_blank" rel="noopener noreferrer">链接</a>
 * 李斯特（改编自舒曼）献词 Widmung after Schumann S. 566，演奏 顾圣婴，<a href="https://www.bilibili.com/video/BV1dW411i7j6/?vd_source=a561ef469b393b8e0fe54f7f631cc160" target="_blank" rel="noopener noreferrer">链接</a>
+* 李斯特（改编自舒曼）献词 Widmung after Schumann S. 566，演奏 特里福诺夫，<a href="https://www.bilibili.com/video/BV16Y411i7N3/?vd_source=a561ef469b393b8e0fe54f7f631cc160" target="_blank" rel="noopener noreferrer">链接</a>
 * 李斯特 爱之梦 Liebestraum S. 541 No. 3，演奏 朗朗（2003年卡内基独奏），<a href="https://www.bilibili.com/video/BV1AM4y1Z7wd/?spm_id_from=333.1387.favlist.content.click&vd_source=a561ef469b393b8e0fe54f7f631cc160" target="_blank" rel="noopener noreferrer">链接</a>
 * 李斯特 爱之梦 Liebestraum S. 541 No. 3，演奏 赵成珍，<a href="https://www.bilibili.com/video/BV1RL41157GT/?spm_id_from=333.1387.favlist.content.click&vd_source=a561ef469b393b8e0fe54f7f631cc160" target="_blank" rel="noopener noreferrer">链接</a>
 * 李斯特 爱之梦 Liebestraum S. 541 No. 3，演奏 基辛，<a href="https://www.bilibili.com/video/BV1W3411r7EY/?spm_id_from=333.1387.favlist.content.click&vd_source=a561ef469b393b8e0fe54f7f631cc160" target="_blank" rel="noopener noreferrer">链接</a>
