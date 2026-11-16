@@ -12,7 +12,7 @@ Outside of research, I spend a lot of my time reading novels and listening to cl
 Novels
 ======
 
-> In reality every reader is, while he is reading, the reader of his own self.
+> In reality, every reader is, while reading, the reader of his own self.
 >
 > — Marcel Proust, *Time Regained*
 
