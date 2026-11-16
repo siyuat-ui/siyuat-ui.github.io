@@ -45,6 +45,14 @@ Novels I've read (incomplete), with author and nationality.
 Classical Music
 ======
 
+> Music which always says the same thing to you will necessarily soon become dull music, but music whose meaning is slightly different with each hearing has a greater chance of remaining alive.
+>
+> — Aaron Copland, *What to Listen for in Music* (1939)
+
+> Music is your own experience, your thoughts, your wisdom. If you don't live it, it won't come out of your horn.
+>
+> — Charlie Parker, *Down Beat* (1949)
+
 ### Classical (古典)
 
 * 莫扎特 A大调钢琴奏鸣曲第11号 K. 331 第三乐章 土耳其进行曲，演奏 李云迪，<a href="https://www.bilibili.com/video/BV1FC411W7gx/?spm_id_from=333.1387.favlist.content.click&vd_source=a561ef469b393b8e0fe54f7f631cc160" target="_blank" rel="noopener noreferrer">链接</a>
