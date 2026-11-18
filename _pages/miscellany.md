@@ -3,6 +3,7 @@ layout: archive
 title: "Miscellany"
 permalink: /miscellany/
 author_profile: true
+avatar: "profile-miscellany.jpg"
 ---
 
 {% include base_path %}

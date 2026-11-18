@@ -6,11 +6,13 @@
 
 <div itemscope itemtype="http://schema.org/Person">
 
+  {% comment %}A page can set `avatar: filename` in its front matter to override the sidebar photo.{% endcomment %}
+  {% assign avatar_file = page.avatar | default: author.avatar %}
   <div class="author__avatar">
-    {% if author.avatar contains "://" %}
-    	<img src="{{ author.avatar }}" alt="{{ author.name }}"  fetchpriority="high" />
+    {% if avatar_file contains "://" %}
+    	<img src="{{ avatar_file }}" alt="{{ author.name }}"  fetchpriority="high" />
     {% else %}
-    	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}"  fetchpriority="high" />
+    	<img src="{{ avatar_file | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}"  fetchpriority="high" />
     {% endif %}
   </div>
 
