@@ -81,6 +81,9 @@ Classical Music
 * 肖邦 e小调第一钢琴协奏曲 Op. 11，钢琴 李云迪（2000年肖赛决赛），<a href="https://www.bilibili.com/video/BV1Vx411m7co/?spm_id_from=333.1387.favlist.content.click&vd_source=a561ef469b393b8e0fe54f7f631cc160" target="_blank" rel="noopener noreferrer">链接</a>
 * 肖邦 e小调第一钢琴协奏曲 Op. 11，钢琴 皮尔斯，<a href="https://www.bilibili.com/video/BV1rN4y1T7tw/?vd_source=a561ef469b393b8e0fe54f7f631cc160" target="_blank" rel="noopener noreferrer">链接</a>
 * 肖邦 降E大调华丽大圆舞曲 Op. 18，演奏 朗朗，<a href="https://www.bilibili.com/video/BV1LE411h7pR/?vd_source=a561ef469b393b8e0fe54f7f631cc160" target="_blank" rel="noopener noreferrer">链接</a>
+* 肖邦 g小调第一叙事曲 Op. 23，演奏 里赫特（1960年现场版），<a href="https://www.youtube.com/watch?v=mF39XK6EVEk" target="_blank" rel="noopener noreferrer">链接</a>
+* 肖邦 g小调第一叙事曲 Op. 23，演奏 齐默尔曼（1987年录音棚版），<a href="https://www.youtube.com/watch?v=BSFNl4roGlI" target="_blank" rel="noopener noreferrer">链接</a>
+* 肖邦 g小调第一叙事曲 Op. 23，演奏 鲁宾斯坦（1960年专辑版），<a href="https://www.youtube.com/watch?v=Ed2ZtwCDvvw" target="_blank" rel="noopener noreferrer">链接</a>
 * 肖邦 冬风练习曲 Op. 25 No. 11，演奏 基辛，<a href="https://www.bilibili.com/video/BV1bx411B7pb/?spm_id_from=333.1387.favlist.content.click&vd_source=a561ef469b393b8e0fe54f7f631cc160" target="_blank" rel="noopener noreferrer">链接</a>
 * 肖邦 前奏曲 Op. 28，演奏 阿格里奇，<a href="https://www.bilibili.com/video/BV1JL4y1J7dq/?spm_id_from=333.1387.favlist.content.click&vd_source=a561ef469b393b8e0fe54f7f631cc160" target="_blank" rel="noopener noreferrer">链接</a>
 * 肖邦 前奏曲 Op. 28，演奏 傅聪，<a href="https://www.bilibili.com/video/BV1RV411u7Wz/?spm_id_from=333.1387.favlist.content.click&vd_source=a561ef469b393b8e0fe54f7f631cc160" target="_blank" rel="noopener noreferrer">链接</a>
