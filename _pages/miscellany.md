@@ -8,7 +8,7 @@ avatar: "profile-miscellany.jpg"
 
 {% include base_path %}
 
-Outside of research, I spend a lot of my time reading novels and listening to classical music.
+Outside of research, I enjoy reading novels and listening to classical music a lot.
 
 Novels
 ======
